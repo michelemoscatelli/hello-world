@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub
-I love :music:, :book: and :running: 
+I love :sound:, :book: and :running: 
